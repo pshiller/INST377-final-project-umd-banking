@@ -1,9 +1,9 @@
 <?php
-$servername = "localhost";
+$servername = "mydb-umd.cibvjaqchmql.us-east-1.rds.amazonaws.com:3306"; //or localhost
 // Enter your MySQL username below(default=root)
 $username = "root";
 // Enter your MySQL password below
-$password = "";
+$password = "password"; //no password for localhost
 $dbname = "umd-db";
 
 // Create connection
